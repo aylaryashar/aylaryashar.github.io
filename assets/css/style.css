@@ -103,6 +103,21 @@ a:hover {
 	background: #438993 url('../img/mobile-app1.jpg') center center no-repeat;
 }
 
+#redesign1 .row  {
+	background: #CA354F;
+}
+
+#redesign1 .row,
+#redesign1 a {
+	color: #fff;
+}
+
+#redesign1 .bg {
+	min-height: 400px;
+	/* max-width: 200px; */
+	background: #CA354F url('../img/redesign1_1.png') center center no-repeat;
+}
+
 @media (max-width: 575.98px) {
 	.content-block .content {
 		width: 95%;
